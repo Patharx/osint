@@ -1,0 +1,42 @@
+============================================================
+🧙 GANDALF'S OSINT REPORT
+============================================================
+Target: https://books.toscrape.com
+Scanned: 2026-06-13 01:17:15
+============================================================
+
+
+==================== METADATA ====================
+  title: All products | Books to Scrape - Sandbox
+  description: 
+
+==================== TECHNOLOGIES ====================
+  Framework/Service: jQuery
+
+==================== EMAILS ====================
+
+==================== INTERNAL LINKS ====================
+  https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+  https://books.toscrape.com/catalogue/category/books/academic_40/index.html
+  https://books.toscrape.com/catalogue/category/books/add-a-comment_18/index.html
+  https://books.toscrape.com/catalogue/category/books/adult-fiction_29/index.html
+  https://books.toscrape.com/catalogue/category/books/art_25/index.html
+  https://books.toscrape.com/catalogue/category/books/autobiography_27/index.html
+  https://books.toscrape.com/catalogue/category/books/biography_36/index.html
+  https://books.toscrape.com/catalogue/category/books/business_35/index.html
+  https://books.toscrape.com/catalogue/category/books/childrens_11/index.html
+  https://books.toscrape.com/catalogue/category/books/christian-fiction_34/index.html
+  https://books.toscrape.com/catalogue/category/books/christian_43/index.html
+  https://books.toscrape.com/catalogue/category/books/classics_6/index.html
+  https://books.toscrape.com/catalogue/category/books/contemporary_38/index.html
+  https://books.toscrape.com/catalogue/category/books/crime_51/index.html
+  https://books.toscrape.com/catalogue/category/books/cultural_49/index.html
+  https://books.toscrape.com/catalogue/category/books/default_15/index.html
+  https://books.toscrape.com/catalogue/category/books/erotica_50/index.html
+  https://books.toscrape.com/catalogue/category/books/fantasy_19/index.html
+  https://books.toscrape.com/catalogue/category/books/fiction_10/index.html
+  https://books.toscrape.com/catalogue/category/books/food-and-drink_33/index.html
+
+==================== EXTERNAL LINKS ====================
+
+==================== ROBOTS.TXT DISALLOWED ====================

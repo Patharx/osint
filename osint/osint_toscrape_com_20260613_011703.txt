@@ -1,0 +1,31 @@
+============================================================
+🧙 GANDALF'S OSINT REPORT
+============================================================
+Target: https://toscrape.com
+Scanned: 2026-06-13 01:17:03
+============================================================
+
+
+==================== METADATA ====================
+  title: Scraping Sandbox
+
+==================== TECHNOLOGIES ====================
+  Framework/Service: Bootstrap
+
+==================== EMAILS ====================
+
+==================== INTERNAL LINKS ====================
+
+==================== EXTERNAL LINKS ====================
+  http://books.toscrape.com
+  http://quotes.toscrape.com
+  http://quotes.toscrape.com/
+  http://quotes.toscrape.com/js
+  http://quotes.toscrape.com/js-delayed
+  http://quotes.toscrape.com/login
+  http://quotes.toscrape.com/random
+  http://quotes.toscrape.com/scroll
+  http://quotes.toscrape.com/search.aspx
+  http://quotes.toscrape.com/tableful
+
+==================== ROBOTS.TXT DISALLOWED ====================
